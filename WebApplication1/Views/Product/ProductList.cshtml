@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .innerbox {
+        width: 250px;
+        max-width: 250px;
+        height: 200px;
+        max-height: 200px;
+        display: inline-block;
+    }
+</style>
+
+<div class="container">
+    <div>
+        <h2>Popis dostupnih igara</h2>
+    </div>
+
+    <div class="row">
+        @foreach (var product in Model.Products)
+        {
+            <div class="card mb-4" style="width:25%;">
+                <h3 class="card-header">@product.Name</h3>
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <h6 class="card-subtitle text-muted">@product.ProductSorter.Name</h6>
+                </div>
+                <img style="height: 200px; width: 100%; display: block;" src="@product.ImageURL" alt="Card image">
+                <div class="card-body">
+                    <p class="card-text">@product.Description</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Dali je preporuceno? @Html.CheckBox("IsMostLiked", (product.IsMostLiked) ? true : false)</li>
+                    <li class="list-group-item">Dali je dostupno? @Html.CheckBox("InStock", (product.InStock) ? true : false)</li>
+                    <li class="list-group-item">@product.Price kn</li>
+                </ul>
+              
+            </div>
+            <div class="col-md-1"></div>
+        }
+    </div>
+
+</div>

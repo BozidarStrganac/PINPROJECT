@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/lib/jQuery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <title>@ViewBag.Title</title>
+
+    <style>
+        .centered {
+            position: fixed;
+            top: 50%;
+            left: 46%;
+            /* bring your own prefixes */
+            transform: translate(-50%, -50%);
+        }
+
+        .btn {
+            width: 200px;
+            max-width: 200px;
+        }
+
+        .li {
+            margin: 60px 0;
+        }
+
+        .blockquote {
+            text-align: center;
+            padding-left: 50%;
+            width: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="margin-top:7%;">
+        <div class="row" style="margin-bottom:10px;">
+            <p>What distinguishes us is the precision and control we exercise over the production process in order to achieve continuous quality of our products. We accomplish that due to our experts' experience, the usage of quality grain raw materials, constant aspiration for technological innovations as well as expert insights into our customers' needs. </p>
+            <p>The essence of our business lies in innovations and modern technologies as well as providing long-term sustainable development for our clients and society as a whole. Our mission is to work for the benefit of our partners by offering them innovative, effective, high-quality solutions at low risk and guaranteeing our personal responsibility towards the end user. </p>
+        </div>
+       
+        <div class="row" style="margin-top:10%;">
+            <div class="col-md-6">
+                <h2>Opis stranice</h2>
+                <p>Ovo je projekt za <a href="http://vsite.hr/">VSITE</a> predmet PIN.</p>
+               
+            </div>
+            <div class="col-md-6">
+                <h2>Sto nudim?</h2>
+                <p class="text-muted">Igre po vrsti</p>
+                <p class="text-primary">Pregled mog profila</p>
+                <p class="text-warning">Sto se doda u bazu, mora se prikazati na stranici</p>
+            </div>
+        </div>
+        
+    </div>
+
+</body>
+</html>

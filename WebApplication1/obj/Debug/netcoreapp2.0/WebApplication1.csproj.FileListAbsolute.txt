@@ -1,0 +1,41 @@
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Magic Wonderland Of Unicorns\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\Life\Lux-Webpage-Store\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\Life\Lux-Webpage-Store\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\Life\Lux-Webpage-Store\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\Life\Lux-Webpage-Store\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Life\Lux-Webpage-Store\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\Life\Lux-Webpage-Store\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Life\Lux-Webpage-Store\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Life\Lux-Webpage-Store\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+D:\Life\Lux-Webpage-Store\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Life\Lux-Webpage-Store\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\Life\Lux-Webpage-Store\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Endy\Desktop\Lux-Webpage-Store-master\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Endy\Desktop\PINPROJECT\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
